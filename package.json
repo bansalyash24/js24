@@ -1,0 +1,15 @@
+{
+  "name": "learn-js",
+  "version": "1.0.0",
+  "description": "\"Learning js in 2024",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Yash Bansal\"",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
