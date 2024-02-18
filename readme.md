@@ -1,0 +1,2 @@
+- hoisting 
+    - do not works in class
